@@ -1,24 +1,2 @@
-# README
+DO NOT USE ME - I AM OLD AND MY OWNER LOST CONTROL OF ME SO NOW I AM JUST HERE TO CONFUSE YOU UNTIL SOMEONE CAN DELETE THIS REPO.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
